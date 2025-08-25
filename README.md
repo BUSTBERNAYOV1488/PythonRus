@@ -17,10 +17,6 @@ result = pythonrus.do_something()
 print(result)
 ```
 
-## Примеры
-
-Смотрите в [examples](examples/) directory.
-
 ## Лицензия
 
 MIT License - смотрите [LICENSE](LICENSE) файл.
